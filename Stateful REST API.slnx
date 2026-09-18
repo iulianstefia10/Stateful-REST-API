@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Statefull REST API/Stateful REST API.csproj" />
+  <Project Path="Stateful_REST_API.Tests/Stateful_REST_API.Tests.csproj" Id="c3760ee3-8d61-49e3-b9e6-1fb8e56ede71" />
+</Solution>
